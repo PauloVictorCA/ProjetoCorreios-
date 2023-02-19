@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ProjetoCorreios-/static/css/main.5fe863ac.css",
-    "main.js": "/ProjetoCorreios-/static/js/main.0782d8b5.js",
+    "main.js": "/ProjetoCorreios-/static/js/main.b2105c86.js",
     "static/js/787.84f6a6b2.chunk.js": "/ProjetoCorreios-/static/js/787.84f6a6b2.chunk.js",
     "index.html": "/ProjetoCorreios-/index.html",
     "static/media/location.svg": "/ProjetoCorreios-/static/media/location.513ee93bd67a3a6b8212dd74051c7266.svg",
     "main.5fe863ac.css.map": "/ProjetoCorreios-/static/css/main.5fe863ac.css.map",
-    "main.0782d8b5.js.map": "/ProjetoCorreios-/static/js/main.0782d8b5.js.map",
+    "main.b2105c86.js.map": "/ProjetoCorreios-/static/js/main.b2105c86.js.map",
     "787.84f6a6b2.chunk.js.map": "/ProjetoCorreios-/static/js/787.84f6a6b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fe863ac.css",
-    "static/js/main.0782d8b5.js"
+    "static/js/main.b2105c86.js"
   ]
 }
