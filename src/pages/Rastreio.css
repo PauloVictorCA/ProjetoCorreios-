@@ -1,0 +1,17 @@
+html {
+  background-color: #aeaeae;
+}
+
+.Rastreio {
+  margin: 60px auto 0 auto;
+
+  width: 400px;
+  height: 242px;
+  background-color: #ffffff;
+  border-radius: 40px;
+}
+
+h2 {
+  margin: 0;
+  padding: 15px;
+}

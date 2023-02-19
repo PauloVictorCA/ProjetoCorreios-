@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+
+body {
+  font-family: "Fira Code", monospace;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +41,59 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.Tranking {
+  margin: 60px auto 0 auto;
+  width: 400px;
+  height: 230px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 6px #757575;
+  border-radius: 40px;
+}
+
+.Tranking div,
+h1 {
+  margin: 0;
+}
+
+.Tranking h1 {
+  padding: 20px;
+}
+
+.InputPesquisar {
+  width: 300px;
+  background-color: #aeaeae;
+  box-shadow: 0px 4px 6px #757575;
+  margin: 5px auto 0 auto;
+  border-radius: 15px;
+  padding: 5px 0 5px 5px;
+}
+
+button {
+  margin-top: 30px;
+  background-color: #2191f8;
+  border: none;
+  border-radius: 30px;
+  padding: 7px 5px 7px 5px;
+  width: 140px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: "Fira Code", monospace;
+  box-shadow: 0px 4px 6px #757575;
+}
+button:active {
+  background-color: #1966af;
 }
